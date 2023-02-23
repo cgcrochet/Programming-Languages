@@ -1,3 +1,5 @@
+package Lexer;
+
 // Cameron Crochet
 // 892681239
 
@@ -14,7 +16,6 @@
 //  named testcase.txt
 
 // Developed with the NetBeans IDE
-package lexer;
 
 import java.io.File;
 import java.io.FileReader;
